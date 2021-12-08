@@ -1,0 +1,42 @@
+.product-table-row,
+.product-table-row-cell {
+  border-collapse: collapse;
+  border: 1px solid black;
+}
+
+.product-table-row-cell {
+  padding-left: 10px;
+}
+
+.list-image {
+  height: 40px;
+  width: 20px;
+  margin-left: 10px;
+}
+
+.icon {
+  font-size: 15px;
+  margin-right: 4px;
+}
+
+.edit-delete-btn {
+  background-color: #1191ed;
+  border: none;
+  border-radius: 3px;
+  font-family: 'Roboto';
+  font-size: 15px;
+  color: #ffffff;
+  margin: 5px;
+  height: 40px;
+  cursor: pointer;
+}
+.save-btn {
+  height: 40px;
+}
+
+.input-edit {
+  border: 1px solid #bec0c2;
+  margin-right: 3px;
+  height: 30px;
+  border-radius: 3px;
+}
